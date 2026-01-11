@@ -16,7 +16,7 @@ This project is a PDF-based Q&A chatbot built with Streamlit, FAISS for similari
 🛠️ Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/ShubhamMandowara/llm_rag.git
+git clone https://github.com/Hemanta31/SmartDoc-AI-AI-Powered-Document-Question-Answering-Platform.git
 cd pdf-qna-chatbot
 
 2️⃣ Create a Virtual Environment
